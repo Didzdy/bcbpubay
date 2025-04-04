@@ -116,6 +116,11 @@ nav a:hover {
     
     
 }
+@media (max-width: 600px) {
+    .body {
+        width: 100%;
+        
+    
 
 /* Footer */
 footer {
